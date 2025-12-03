@@ -1,0 +1,186 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    tools:context=".PaymentActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:background="#1C0E9A"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingTop="32dp">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/logo"
+            android:contentDescription="App Logo"
+            android:layout_marginBottom="16dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Payment"
+            android:textColor="@android:color/white"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginTop="-50dp"
+        android:background="@drawable/rounded_white_card_bg"
+        android:padding="24dp"
+        android:elevation="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Booking Summary"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp"
+            tools:ignore="HardcodedText" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="24dp">
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Date"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingSummaryValue" android:text="Oct 22"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Time"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingSummaryValue" android:text="9:00 -11:00 AM"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Slot #"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingSummaryValue" android:text="Slot 1"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Duration"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingSummaryValue" android:text="2 hours"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Amount"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingSummaryValue" android:text="100"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Payment Method"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp"
+            tools:ignore="HardcodedText" />
+
+        <RadioGroup
+            android:id="@+id/rg_payment_method"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp">
+
+            <RadioButton
+                android:id="@+id/rb_gcash"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GCash"
+                android:textSize="12sp"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:paddingTop="12dp"
+                android:paddingBottom="12dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/rounded_radio_button_bg"
+                android:buttonTint="#3B41A5"
+                android:checked="true"
+                tools:ignore="HardcodedText" />
+
+            <RadioButton
+                android:id="@+id/rb_credit_debit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Credit/Debit Card"
+                android:textSize="12sp"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:paddingTop="12dp"
+                android:paddingBottom="12dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/rounded_radio_button_bg"
+                android:buttonTint="#3B41A5"
+                tools:ignore="HardcodedText" />
+
+            <RadioButton
+                android:id="@+id/rb_cash_on_site"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cash on Site"
+                android:textSize="12sp"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:paddingTop="12dp"
+                android:paddingBottom="12dp"
+                android:background="@drawable/rounded_radio_button_bg"
+                android:buttonTint="#3B41A5"
+                tools:ignore="HardcodedText" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btn_pay_now"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pay Now"
+            android:textColor="@android:color/white"
+            android:backgroundTint="#1C0E9A"
+            android:padding="12dp"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Receipt will be sent to your email."
+        android:textColor="@android:color/darker_gray"
+        android:textSize="12sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="16dp"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_parking_logo" />
+    <drawable name="ic_parking_logo_white" />
+    <drawable name="ic_car_booking" />
+    <drawable name="ic_calendar" />
+    <drawable name="ic_payment" />
+    <drawable name="ic_profile" />
+    <drawable name="ic_parking_p_green" />
+    <drawable name="ic_success_check" />
+    <drawable name="ic_parking_pin_blue" />
+    <drawable name="ic_logo" />
+    <drawable name="ic_app_logo" />
+    <drawable name="ic_person" />
+    <drawable name="ic_credit_card" />
+    <drawable name="ic_car" />
+    <drawable name="ic_person_circle" />
+    <drawable name="dot_booked" />
+</resources>

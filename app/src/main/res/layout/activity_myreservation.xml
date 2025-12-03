@@ -1,0 +1,189 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@android:color/white"
+    tools:context=".MyReservationActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:background="#3B41A5"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:paddingTop="32dp">
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/logo"
+                android:contentDescription="App Logo"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="My Reservation"
+                android:textColor="@android:color/white"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="-50dp"
+            android:paddingBottom="32dp">
+
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="24dp"
+            android:layout_marginEnd="24dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/rounded_white_card_bg"
+            android:elevation="8dp"
+            android:padding="24dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Upcoming"
+                android:textColor="@android:color/black"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="16dp" />
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Date"/>
+                <TextView style="@style/BookingSummaryValue" android:text="Oct 22, 2025"/>
+            </LinearLayout>
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Time"/>
+                <TextView style="@style/BookingSummaryValue" android:text="9:00 -11:00 AM"/>
+            </LinearLayout>
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Slot #"/>
+                <TextView style="@style/BookingSummaryValue" android:text="Slot 1"/>
+            </LinearLayout>
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Duration"/>
+                <TextView style="@style/BookingSummaryValue" android:text="2 hours"/>
+            </LinearLayout>
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Amount"/>
+                <TextView style="@style/BookingSummaryValue" android:text="100"/>
+            </LinearLayout>
+
+            <LinearLayout style="@style/BookingSummaryRow">
+                <TextView style="@style/BookingSummaryLabel" android:text="Status"/>
+                <TextView style="@style/BookingSummaryValue" android:text="Paid"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginStart="24dp"
+                android:layout_marginEnd="24dp"
+                android:layout_marginBottom="16dp"
+                android:background="@drawable/rounded_white_card_bg"
+                android:elevation="8dp"
+                android:padding="24dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Complete"
+                    android:textColor="@android:color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="16dp" />
+
+                <LinearLayout style="@style/BookingSummaryRow">
+                    <TextView style="@style/BookingSummaryLabel" android:text="Date"/>
+                    <TextView style="@style/BookingSummaryValue" android:text="Sept 16, 2025"/>
+                </LinearLayout>
+
+                <LinearLayout style="@style/BookingSummaryRow">
+                    <TextView style="@style/BookingSummaryLabel" android:text="Time"/>
+                    <TextView style="@style/BookingSummaryValue" android:text="9:00 -11:00 AM"/>
+                </LinearLayout>
+
+                <LinearLayout style="@style/BookingSummaryRow">
+                    <TextView style="@style/BookingSummaryLabel" android:text="Slot #"/>
+                    <TextView style="@style/BookingSummaryValue" android:text="Slot 5"/>
+                </LinearLayout>
+
+                <LinearLayout style="@style/BookingSummaryRow">
+                    <TextView style="@style/BookingSummaryLabel" android:text="Duration"/>
+                    <TextView style="@style/BookingSummaryValue" android:text="3 hours"/>
+                </LinearLayout>
+
+                <LinearLayout style="@style/BookingSummaryRow">
+                    <TextView style="@style/BookingSummaryLabel" android:text="Amount"/>
+                    <TextView style="@style/BookingSummaryValue" android:text="300"/>
+                </LinearLayout>
+
+                <LinearLayout style="@style/BookingSummaryRow">
+                    <TextView style="@style/BookingSummaryLabel" android:text="Status"/>
+                    <TextView style="@style/BookingSummaryValue" android:text="Paid"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginStart="24dp"
+                android:layout_marginEnd="24dp"
+                android:layout_marginBottom="16dp"
+                android:background="@drawable/rounded_white_card_bg"
+                android:elevation="8dp"
+                android:padding="24dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Canceled"
+                    android:textColor="@android:color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="16dp" />
+
+                <LinearLayout style="@style/BookingSummaryRow">
+                    <TextView style="@style/BookingSummaryLabel" android:text="Date"/>
+                    <TextView style="@style/BookingSummaryValue" android:text="August 16, 2025"/>
+                </LinearLayout>
+
+                <LinearLayout style="@style/BookingSummaryRow">
+                    <TextView style="@style/BookingSummaryLabel" android:text="Time"/>
+                    <TextView style="@style/BookingSummaryValue" android:text="9:00 -11:00 AM"/>
+                </LinearLayout>
+
+                <LinearLayout style="@style/BookingSummaryRow">
+                    <TextView style="@style/BookingSummaryLabel" android:text="Slot #"/>
+                    <TextView style="@style/BookingSummaryValue" android:text="Slot 10"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
