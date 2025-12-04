@@ -22,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Edit User"
-        android:textSize="20sp"
+        android:textSize="12sp"
         android:textStyle="bold"
         android:textColor="#333333"
         android:layout_gravity="center_horizontal"
@@ -52,7 +52,7 @@
         android:textColor="#333333"
         android:textColorHint="#AAAAAA"
         android:layout_marginBottom="20dp"
-        tools:ignore="HardcodedText" />
+        tools:ignore="Autofill,HardcodedText" />
 
     <TextView
         android:layout_width="match_parent"
@@ -76,7 +76,7 @@
         android:textColor="#333333"
         android:textColorHint="#AAAAAA"
         android:layout_marginBottom="20dp"
-        tools:ignore="HardcodedText" />
+        tools:ignore="Autofill,HardcodedText" />
 
     <TextView
         android:layout_width="match_parent"
@@ -101,7 +101,8 @@
         android:textSize="12sp"
         android:textColor="#333333"
         android:textColorHint="#AAAAAA"
-        android:layout_marginBottom="20dp" />
+        android:layout_marginBottom="20dp"
+        tools:ignore="Autofill,HardcodedText,KeyboardInaccessibleWidget" />
 
     <TextView
         android:layout_width="match_parent"
@@ -109,7 +110,8 @@
         android:text="Status"
         android:textSize="12sp"
         android:textColor="#555555"
-        android:layout_marginBottom="8dp" />
+        android:layout_marginBottom="8dp"
+        tools:ignore="HardcodedText" />
 
     <EditText
         android:id="@+id/edit_text_status"
@@ -124,7 +126,8 @@
         android:textSize="12sp"
         android:textColor="#333333"
         android:textColorHint="#AAAAAA"
-        android:layout_marginBottom="20dp" />
+        android:layout_marginBottom="20dp"
+        tools:ignore="HardcodedText,KeyboardInaccessibleWidget,TextFields" />
 
     <TextView
         android:layout_width="match_parent"
