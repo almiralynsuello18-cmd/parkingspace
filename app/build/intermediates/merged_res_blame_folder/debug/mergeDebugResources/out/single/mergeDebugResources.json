@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_outline_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_outline_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_checklogo.png.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\checklogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_bookedsuccessfully.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_bookedsuccessfully.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_outline_grn_gb.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_outline_grn_gb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_list_item_booking_paid.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\list_item_booking_paid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_radio_button_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_radio_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_ic_person_blue.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\ic_person_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_bookparking.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_bookparking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_dot_cancelled.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\dot_cancelled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_edit_slot.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_edit_slot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_plogo.png.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\plogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_myreservation.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_myreservation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_status_active_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\status_active_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_ic_card_blue.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\ic_card_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_menu_item_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_menu_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_view_booking_paid_status.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_view_booking_paid_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_view_booked_status.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_view_booked_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_status_paid_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_status_paid_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_btton_inactive.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\btton_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_ic_logout_key.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\ic_logout_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_list_item_booking.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\list_item_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_manage_users.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_manage_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_user_row_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\user_row_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_manage_parking_slots.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_manage_parking_slots.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_ic_calendar_blue.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\ic_calendar_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_edit_button_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\edit_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_ic_logout.png.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_dot_paid.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\dot_paid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_confirmationstatus.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_confirmationstatus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_login.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_white_card_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_white_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_userprofile.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_userprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_dot_booked.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\dot_booked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_view_booking_cancelled.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_view_booking_cancelled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_table_header_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_table_header_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_dialog_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_list_item_payments.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\list_item_payments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_changepassword.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_changepassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_view_bookings.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_view_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_segmented_btton_active.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\segmented_btton_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_editprofile.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_editprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_forgotpassword.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_forgotpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_booking.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_list_item_booking_cancelled.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\list_item_booking_cancelled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_list_item_parking_slot.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\list_item_parking_slot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_grid_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_grid_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_createaccount.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_createaccount.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_user_list_item.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\user_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_logout.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_green_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_green_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_segmented_control_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\segmented_control_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_legend_green_dot.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\legend_green_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_view_bookings_paid.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_view_bookings_paid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_logout.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_logout.xml"
+    },
+    {
+        "merged": "com.example.parkingspace.app-debug-34:/drawable_ic_car_status.xml.flat",
+        "source": "com.example.parkingspace.app-main-36:/drawable/ic_car_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_ic_reservations.png.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\ic_reservations.png"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_white_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_legend_red_dot.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\legend_red_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_legend_gray_dot.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\legend_gray_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_paymentstatus.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_paymentstatus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_admin_button_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_admin_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_view_booking_cancelled_status.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_view_booking_cancelled_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_edit_user.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_edit_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_ic_car_blue.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\ic_car_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_rounded_edittext_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\rounded_edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\layout_activity_admin_payments.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\layout\\activity_admin_payments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jack\\.gradle\\daemon\\8.13\\com.example.parkingspace.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

@@ -1,0 +1,140 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@android:color/white"
+    tools:context=".BookingConfirmationActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/rounded_white_card_bg"
+        android:elevation="8dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Booking Details"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:background="#1C0E9A"
+            android:paddingStart="24dp"
+            android:paddingEnd="24dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            tools:ignore="HardcodedText" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="24dp"
+                android:layout_gravity="center_horizontal"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    android:layout_width="28dp"
+                    android:layout_height="28dp"
+                    android:src="@drawable/checklogo"
+                    android:contentDescription="Confirmation Checkmark"
+                    android:layout_marginEnd="8dp"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Confirmation"
+                    android:textColor="#4CAF50"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginBottom="24dp">
+
+                <TextView style="@style/BookingDetailLabel" android:text="Date"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingDetailValue" android:text="Oct 22"
+                    tools:ignore="HardcodedText" />
+
+                <TextView style="@style/BookingDetailLabel" android:text="Time" android:layout_marginTop="8dp"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingDetailValue" android:text="9:00 - 11:00 AM"
+                    tools:ignore="HardcodedText" />
+
+                <TextView style="@style/BookingDetailLabel" android:text="Slot #" android:layout_marginTop="8dp"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingDetailValue" android:text="Slot 1"
+                    tools:ignore="HardcodedText" />
+
+                <TextView style="@style/BookingDetailLabel" android:text="Duration" android:layout_marginTop="8dp"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingDetailValue" android:text="2 hours"
+                    tools:ignore="HardcodedText" />
+
+                <TextView style="@style/BookingDetailLabel" android:text="Status" android:layout_marginTop="8dp"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingDetailValue" android:text="Confirmed"
+                    tools:ignore="HardcodedText" />
+
+                <TextView style="@style/BookingDetailLabel" android:text="Booking ID" android:layout_marginTop="8dp"
+                    tools:ignore="HardcodedText" />
+                <TextView style="@style/BookingDetailValue" android:text="123456"
+                    tools:ignore="HardcodedText" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <Button
+                    android:id="@+id/btn_cancel"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Cancel"
+                    android:textColor="#000000"
+                    android:backgroundTint="#E0E0E0"
+                    android:padding="12dp"
+                    android:layout_marginEnd="8dp"
+                    tools:ignore="ButtonStyle,HardcodedText" />
+
+                <Button
+                    android:id="@+id/btn_back"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Back"
+                    android:textColor="@android:color/white"
+                    android:backgroundTint="#1C0E9A"
+                    android:padding="12dp"
+                    android:layout_marginStart="8dp"
+                    tools:ignore="ButtonStyle,HardcodedText" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

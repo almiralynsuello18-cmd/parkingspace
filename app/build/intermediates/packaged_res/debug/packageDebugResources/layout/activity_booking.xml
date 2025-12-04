@@ -1,0 +1,128 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".BookingDetailsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:background="#1C0E9A"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingTop="32dp">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/logo"
+            android:contentDescription="App Logo"
+            android:layout_marginBottom="16dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Booking"
+            android:textColor="@android:color/white"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginTop="-50dp"
+        android:background="@drawable/rounded_white_card_bg"
+        android:padding="24dp"
+        android:elevation="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Booking ID"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:layout_marginBottom="4dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/tv_booking_id"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="123456"
+            android:gravity="center_vertical"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:background="@drawable/rounded_edittext_bg"
+            android:layout_marginBottom="16dp"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Parking slot"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:layout_marginBottom="4dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/tv_parking_slot"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Slot 1"
+            android:gravity="center_vertical"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:background="@drawable/rounded_edittext_bg"
+            android:layout_marginBottom="16dp"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Booking time"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:layout_marginBottom="4dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/tv_booking_time"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="9:00 - 11:00 AM"
+            android:gravity="center_vertical"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:background="@drawable/rounded_edittext_bg"
+            android:layout_marginBottom="40dp"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/btn_ok"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ok"
+            android:textColor="@android:color/white"
+            android:backgroundTint="#1C0E9A"
+            android:padding="12dp"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+</LinearLayout>
